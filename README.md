@@ -1,4 +1,6 @@
-# gliff
+# SigmaOS gliff
+
+> Forked from omacom/gliff (MIT). See `SIGMAOS_FORK.md`.
 
 [![CI](https://github.com/omacom/gliff/actions/workflows/ci.yml/badge.svg)](https://github.com/omacom/gliff/actions/workflows/ci.yml)
 
