@@ -1,8 +1,8 @@
 # SigmaOS gliff
 
-> Forked from omacom/gliff (MIT). See `SIGMAOS_FORK.md`.
+> Forked from SigmaOS/gliff (MIT). See `SIGMAOS_FORK.md`.
 
-[![CI](https://github.com/omacom/gliff/actions/workflows/ci.yml/badge.svg)](https://github.com/omacom/gliff/actions/workflows/ci.yml)
+[![CI](https://github.com/SigmaOS/gliff/actions/workflows/ci.yml/badge.svg)](https://github.com/SigmaOS/gliff/actions/workflows/ci.yml)
 
 gliff is a remote desktop for Hyprland. It shows the Hyprland session of
 another machine in a window on yours, and all it needs between the two is
@@ -23,7 +23,7 @@ both ends, and falls back to the CPU on machines where it cannot.
 - A shared clipboard in both directions: text, images, and copied files.
 - Quality that adapts to the link, giving up frame rate before sharpness.
 - Reconnection when the link drops.
-- A window that follows your Omarchy theme.
+- A window that follows your SigmaOS theme.
 
 ## Requirements
 
@@ -39,8 +39,8 @@ both ends, and falls back to the CPU on machines where it cannot.
 Install gliff on both machines: your machine runs `gliff`, the remote one
 runs `gliff-server`.
 
-Gliff is currently available on the **edge** channel of the [Omarchy Package
-Repository (OPR)](https://github.com/omacom/omarchy-pkgs):
+Gliff is currently available on the **edge** channel of the [SigmaOS Package
+Repository (OPR)](https://github.com/AaryanSinghChauhan09/SigmaOS-pkgs):
 
 ```
 omarchy pkg add gliff
@@ -52,7 +52,7 @@ If your channel reports `target not found: gliff`, or you use Arch without
 OPR, build and install the package from source:
 
 ```
-git clone https://github.com/omacom/gliff.git
+git clone https://github.com/SigmaOS/gliff.git
 cd gliff
 bin/install
 ```
