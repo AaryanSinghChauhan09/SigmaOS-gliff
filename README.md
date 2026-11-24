@@ -154,3 +154,8 @@ gliff --server-bin 'gliff-server --low-bandwidth' user@host
   machine, and the tests.
 
 gliff is released under the MIT license.
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-gliff) - Full Wiki documentation for all SigmaOS components
