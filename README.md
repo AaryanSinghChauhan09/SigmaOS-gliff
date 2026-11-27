@@ -43,7 +43,7 @@ Gliff is currently available on the **edge** channel of the [SigmaOS Package
 Repository (OPR)](https://github.com/AaryanSinghChauhan09/SigmaOS-pkgs):
 
 ```
-omarchy pkg add gliff
+sigmaos pkg add gliff
 ```
 
 Then open **Gliff** from the app launcher, or run `gliff` in a terminal.
